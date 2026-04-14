@@ -1,4 +1,4 @@
-# Digital Clock (Verilog)
+# Digital Clock
 
 ## 📌 Overview
 This project implements a modular digital clock system using Verilog HDL. The system supports multiple operating modes including time display, time setting, stopwatch, and countdown timer.
@@ -42,7 +42,9 @@ The design follows a modular hardware architecture:
 
 ## 📂 Project Structure
 **/src** # Verilog source files
+
 **/testbench** # Simulation testbench
+
 **/sim** # Waveform outputs
 
 ## 🎯 Learning Outcomes
